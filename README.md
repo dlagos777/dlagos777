@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything about Frontend and Backend technologies**
 
-- 💬 Ask me about **, node, npm, rest api, jwt and other full stack technologies**
+- 💬 Ask me about ** Node, NPM, Api Rest, JWT and other Full Stack technologies**
 
 - 📫 How to reach me **dlagos777@gmail.com**
 
